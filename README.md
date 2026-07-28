@@ -19,7 +19,7 @@ Made to keep Python projects simple. One file. One command. Done.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dependency-checker.git
+git clone https://github.com/MAXFEVASIGMA000/dependency-checker.git
 ```
 
 Enter the folder:
